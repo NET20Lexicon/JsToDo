@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  padding: 1.5rem;
+  color: blue;
+}
+
+.change {
+  text-decoration: line-through;
+  background-color: lightskyblue;
+}
+
+button {
+  float: right;
+}
